@@ -15,11 +15,11 @@ TO DO
 - dodati bazu podataka i kreirati highscore ljestvicu
 - implementacija dodatne komande kojom na pritisak zamjenjujemo jedan život i nadopunimo health bar na 100 %
 - dodavanje zvuka u igru:
-            main menu muzika
-            main menu interface sound
-            in game song
-            in game flight and battle sounds
-            in game enemy sound
-            game over sound
+            - main menu muzika
+            - main menu interface sound
+            - in game song
+            - in game flight and battle sounds
+            - in game enemy sound
+            - game over sound
 - nakon određenog levela promjeniti dizajn borbenog aviona/broda
 - dodati nakon nekog levela dodatne protivnike
