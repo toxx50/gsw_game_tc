@@ -2,6 +2,29 @@
 
 a little project for my resume
 
+The game was created with my knowledge, YouTube, and Google tutorials. It features multiple levels, with the game speeding up and introducing more enemies every 5th level. Additionally, players receive an extra life at the start of each level.
+
+On the fifth level, the game's design undergoes a change.
+
+TO DO:
+
+- Add a database and create a high-score leaderboard.
+- Implement an additional command to exchange one life and replenish the health bar to 100%.
+- Incorporate sound into the game:
+            - Main menu music
+            - Main menu interface sound
+            - In-game music
+            - In-game flight and battle sounds
+            - In-game enemy sounds
+            - Game over sound
+- Change the design of the combat aircraft/ship after a certain level.
+- Introduce additional enemies after a certain level."
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+(HR)
 igra kreirana uz moje znanje, youtube i google tutoriale ;)
 
 Sadrži levele, svaki 5. level igra ubrzava i stvara više protivnika,
